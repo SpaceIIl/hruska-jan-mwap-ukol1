@@ -1,0 +1,17 @@
+{
+  "name": "hruska-jan-mwap-ukol1",
+  "version": "1.0.0",
+  "main": "Index.js",
+  "scripts": {
+    "build": "babel app -d public"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "devDependencies": {
+    "@babel/cli": "^7.15.7",
+    "@babel/core": "^7.15.5",
+    "@babel/preset-env": "^7.15.6"
+  }
+}
